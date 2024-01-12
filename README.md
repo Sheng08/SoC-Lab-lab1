@@ -182,11 +182,11 @@ Lab1 使用的工具為 Vitis-HLS (Vitis High-Level Synthesis)，為基於 C++ �
 後續更多資訊會補充於以下HackMD
 * https://hackmd.io/@Sheng08/HkzeBuDyp
 
-:::info
+
 :pushpin: **TODO**
 - [ ] 了解 ASIC
 - [ ] 了解 正反器(Flip-flop) 與查找表(LUT)
-:::
+
 
 <!-- ---
 
