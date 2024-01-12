@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Sep 28 03:20:31 2023
+# Process ID: 23234
+# Current directory: /home/ubuntu/lab/course-lab_1/lab1/solution1/impl/ip
+# Command line: vivado -notrace -mode batch -source run_ippack.tcl
+# Log file: /home/ubuntu/lab/course-lab_1/lab1/solution1/impl/ip/vivado.log
+# Journal file: /home/ubuntu/lab/course-lab_1/lab1/solution1/impl/ip/vivado.jou
+# Running On: ubuntu2004, OS: Linux, CPU Frequency: 4007.996 MHz, CPU Physical cores: 4, Host memory: 16766 MB
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace
+INFO: [Common 17-206] Exiting Vivado at Thu Sep 28 03:20:42 2023...
